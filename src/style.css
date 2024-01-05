@@ -190,7 +190,14 @@ section,
 .section-title {
   font-size: var(--fs-600);
 }
-
+a {
+  text-decoration: none;
+  color: var(--clr-primary-400);
+  font-weight: var(--fw-700);
+}
+a:hover, a:focus {
+  color: var(--clr-primary-300);
+}
 
 /* //////////////////////
   Header
