@@ -4,11 +4,12 @@ description: >-
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
   accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad
   magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
-author: Kevin Powell
-date: 2021-06-15T00:00:00.000Z
+author: Art Sled
+date: 2021-06-15T03:00:00+03:00
 tags:
   - post
   - featured
+  - front
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
 ---
