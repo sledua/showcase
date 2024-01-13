@@ -1,11 +1,20 @@
 ---
-title: My First Article
-author: Kevin Powell
-date: 2021-05-01
-tags: ["post", "featured"]
-image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+title: >-
+  Будь яке випробування повинно починатись з цікавої історії, історії тут не
+  буде, і помилки повинні тут також бути, переходим до справи форми і як їх
+  потрібно було використовувати, чому я не зміг все це зробити швидко, і як буду
+  робити у наступних челенджах.
+description: >-
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
+  accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad
+  magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+author: Art Sled
+date: 2021-05-01T00:00:00.000Z
+tags:
+  - post
+  - featured
+image: /assets/blog/1-article.jpg
+imageAlt: тут буде текст
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
