@@ -1,13 +1,10 @@
 ---
-title: >-
+title: 'Форми, чого так важко і легко одночасно ?'
+description: >-
   Будь яке випробування повинно починатись з цікавої історії, історії тут не
   буде, і помилки повинні тут також бути, переходим до справи форми і як їх
   потрібно було використовувати, чому я не зміг все це зробити швидко, і як буду
   робити у наступних челенджах.
-description: >-
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis
-  accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad
-  magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 author: Art Sled
 date: 2021-05-01T00:00:00.000Z
 tags:
